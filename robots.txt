@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eengechoah.redtapex.com/sitemap.xml
